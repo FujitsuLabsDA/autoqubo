@@ -1,2 +1,4 @@
 # autoqubo
-former address of AutoQUBO
+Former address of AutoQUBO.
+
+New address is https://github.com/FujitsuResearch/autoqubo
